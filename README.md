@@ -1,11 +1,14 @@
 <div align="center">
 
-<img src="https://viscomi.ar/logo.svg" width="80" height="80" alt="Viscomi.ar" />
+<img src="https://github.com/viscomi-ar.png" width="120" style="border-radius:50%" alt="Vynx · Ariel Viscomi" />
+
+<br/>
 
 # Vynx
-### Ariel Viscomi · Developer · DevOps · Automation
 
-**Bariloche, Patagonia, Argentina 🏔️**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=3000&pause=800&color=E7C37A&center=true&vCenter=true&width=440&lines=Developer+%2F+DevOps+%2F+Automation;Building+things+from+Patagonia+%F0%9F%8F%94%EF%B8%8F;Also+makes+music+as+Cachorro+%F0%9F%8E%B9)](https://viscomi.ar)
+
+<br/>
 
 [![Website](https://img.shields.io/badge/viscomi.ar-%23C2185B?style=flat-square&logo=safari&logoColor=white)](https://viscomi.ar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23C2185B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-viscomi/)
@@ -13,15 +16,23 @@
 
 </div>
 
----
+<br/>
 
-## Sobre mí
+```bash
+$ whoami
+> Ariel Viscomi, aka Vynx en dev, aka Cachorro en el estudio.
+> Bariloche, Patagonia, Argentina.
 
-Dev en transición activa hacia software, DevOps e IA. Construyo bajo el alias **Vynx** — automatización, herramientas, web. Todo converge en [viscomi.ar](https://viscomi.ar).
+$ what --do-you-build
+> Automatización, herramientas, web, infraestructura.
+> Todo converge en viscomi.ar
 
-Cuando no estoy en la terminal, produzco música bajo el alias **Cachorro**.
+$ current --status
+> Transición activa → software / DevOps / IA
+> Aprendiendo en público. Construyendo en serio.
+```
 
----
+<br/>
 
 ## Stack
 
@@ -63,7 +74,7 @@ Cuando no estoy en la terminal, produzco música bajo el alias **Cachorro**.
 </tr>
 </table>
 
----
+<br/>
 
 ## Proyectos
 
@@ -73,7 +84,7 @@ Cuando no estoy en la terminal, produzco música bajo el alias **Cachorro**.
 | **[Amoblamientos Patagónicos](https://www.amoblamientospatagonicos.com)** | HTML · CSS | Catálogo web para showroom en Bariloche |
 | **[MSNTS Web](https://github.com/viscomi-ar/msnts_web)** | HTML · CSS | Sitio para banda de rock patagónica |
 
----
+<br/>
 
 ## Actividad
 
@@ -87,10 +98,8 @@ Cuando no estoy en la terminal, produzco música bajo el alias **Cachorro**.
 
 </div>
 
----
+<br/>
 
 <div align="center">
-<sub>
-<a href="https://viscomi.ar">viscomi.ar</a> · Bariloche, Patagonia, Argentina
-</sub>
+<sub><a href="https://viscomi.ar">viscomi.ar</a> · Bariloche, Patagonia, Argentina</sub>
 </div>
