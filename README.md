@@ -6,7 +6,7 @@
 
 # Vynx
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=3000&pause=800&color=E7C37A&center=true&vCenter=true&width=440&lines=Developer+%2F+DevOps+%2F+Automation;Building+things+from+Patagonia+%F0%9F%8F%94%EF%B8%8F;Also+makes+music+as+Cachorro+%F0%9F%8E%B9)](https://viscomi.ar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=3000&pause=800&color=E7C37A&center=true&vCenter=true&width=440&lines=Developer+%2F+DevOps+%2F+Automatizaci%C3%B3n;Construyendo+desde+la+Patagonia+%F0%9F%8F%94%EF%B8%8F;Aprender.+Construir.+Iterar.)](https://viscomi.ar)
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ```bash
 $ whoami
-> Ariel Viscomi, aka Vynx en dev, aka Cachorro en el estudio.
+> Ariel Viscomi, aka Vynx en dev.
 > Bariloche, Patagonia, Argentina.
 
 $ what --do-you-build
@@ -28,8 +28,8 @@ $ what --do-you-build
 > Todo converge en viscomi.ar
 
 $ current --status
-> Transición activa → software / DevOps / IA
-> Aprendiendo en público. Construyendo en serio.
+> Siempre hay algo nuevo que resolver.
+> Buscando el próximo desafío.
 ```
 
 <br/>
@@ -78,11 +78,89 @@ $ current --status
 
 ## Proyectos
 
-| Proyecto | Stack | Descripción |
-|---|---|---|
-| **[viscomi.ar](https://viscomi.ar)** | Next.js · Tailwind · MDX | Portfolio personal — dev, música, blog |
-| **[Amoblamientos Patagónicos](https://www.amoblamientospatagonicos.com)** | HTML · CSS | Catálogo web para showroom en Bariloche |
-| **[MSNTS Web](https://github.com/viscomi-ar/msnts_web)** | HTML · CSS | Sitio para banda de rock patagónica |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [viscomi.ar](https://viscomi.ar)
+![Status](https://img.shields.io/badge/En_construcción-%23E7C37A?style=flat-square&logoColor=%231A1814)
+
+Portfolio personal unificado — dev, música, blog. Hub central de la marca Viscomi.ar.
+
+![Next.js](https://img.shields.io/badge/Next.js-%231A1814?style=flat-square&logo=nextdotjs&logoColor=%23F2EDE4)
+![Tailwind](https://img.shields.io/badge/Tailwind-%231A1814?style=flat-square&logo=tailwindcss&logoColor=%23E7C37A)
+![MDX](https://img.shields.io/badge/MDX-%231A1814?style=flat-square&logo=mdx&logoColor=%23F2EDE4)
+![Vercel](https://img.shields.io/badge/Vercel-%231A1814?style=flat-square&logo=vercel&logoColor=%23F2EDE4)
+
+</td>
+<td width="50%" valign="top">
+
+### [Ticketly](https://github.com/viscomi-ar/ticketly)
+![Status](https://img.shields.io/badge/En_el_tintero-%238A7860?style=flat-square&logoColor=%23F2EDE4)
+
+SaaS de helpdesk para equipos de soporte IT. Sistema de tickets desplegable y personalizable para cualquier empresa.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-%231A1814?style=flat-square&logo=fastapi&logoColor=%23F2EDE4)
+![React](https://img.shields.io/badge/React-%231A1814?style=flat-square&logo=react&logoColor=%23E7C37A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%231A1814?style=flat-square&logo=postgresql&logoColor=%23F2EDE4)
+![Docker](https://img.shields.io/badge/Docker-%231A1814?style=flat-square&logo=docker&logoColor=%23E7C37A)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [pyOTP](https://github.com/viscomi-ar/pyotp)
+![Status](https://img.shields.io/badge/En_revisión-%23242018?style=flat-square&logoColor=%23F2EDE4)
+
+App de escritorio para generar códigos OTP (TOTP/HOTP) con almacenamiento cifrado e interfaz minimalista.
+
+![Python](https://img.shields.io/badge/Python-%231A1814?style=flat-square&logo=python&logoColor=%23E7C37A)
+![Tkinter](https://img.shields.io/badge/Tkinter-%231A1814?style=flat-square&logo=python&logoColor=%23F2EDE4)
+![Cryptography](https://img.shields.io/badge/Cryptography-%231A1814?style=flat-square&logo=letsencrypt&logoColor=%23F2EDE4)
+
+</td>
+<td width="50%" valign="top">
+
+### [RUFA](https://github.com/viscomi-ar/rufa)
+![Status](https://img.shields.io/badge/En_el_tintero-%238A7860?style=flat-square&logoColor=%23F2EDE4)
+
+Framework para centralizar y distribuir scripts y automatizaciones. Desplegable en cualquier equipo o empresa.
+
+![Python](https://img.shields.io/badge/Python-%231A1814?style=flat-square&logo=python&logoColor=%23E7C37A)
+![Git](https://img.shields.io/badge/Git-%231A1814?style=flat-square&logo=git&logoColor=%23F2EDE4)
+![Tkinter](https://img.shields.io/badge/Tkinter-%231A1814?style=flat-square&logo=python&logoColor=%23F2EDE4)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Hormiga Artesana](https://github.com/viscomi-ar/hormiga-artesana)
+![Status](https://img.shields.io/badge/En_revisión-%23242018?style=flat-square&logoColor=%23F2EDE4)
+
+Ecommerce para emprendimiento artesanal de mates de madera. Vitrina, catálogo y carrito de compras.
+
+![React](https://img.shields.io/badge/React-%231A1814?style=flat-square&logo=react&logoColor=%23E7C37A)
+![Tailwind](https://img.shields.io/badge/Tailwind-%231A1814?style=flat-square&logo=tailwindcss&logoColor=%23E7C37A)
+![JavaScript](https://img.shields.io/badge/JavaScript-%231A1814?style=flat-square&logo=javascript&logoColor=%23E7C37A)
+
+</td>
+<td width="50%" valign="top">
+
+### [Amoblamientos Patagónicos](https://amoblamientospatagonicos.com)
+![Status](https://img.shields.io/badge/En_revisión-%23242018?style=flat-square&logoColor=%23F2EDE4)
+
+Catálogo web para punto de venta en Bariloche. Próxima versión en React.
+
+![React](https://img.shields.io/badge/React-%231A1814?style=flat-square&logo=react&logoColor=%23E7C37A)
+![HTML](https://img.shields.io/badge/HTML-%231A1814?style=flat-square&logo=html5&logoColor=%23F2EDE4)
+![CSS](https://img.shields.io/badge/CSS-%231A1814?style=flat-square&logo=css3&logoColor=%23F2EDE4)
+
+</td>
+</tr>
+</table>
+
 
 <br/>
 
